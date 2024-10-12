@@ -1,3 +1,4 @@
+// wherever style.h and style.cpp are stored in
 #include "C:\Users\User\Desktop\VSCode\Cpp\Modules\style.h"
 #include <ctime>
 
